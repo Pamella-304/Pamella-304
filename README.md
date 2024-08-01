@@ -3,7 +3,7 @@
 
 - 👋 I'm Pamella Alvarenga
 - 🎓 I’m an undergraduate student in Physics at Unicamp
-- 🍎 I`m a student at Apple Developer Academy program
+- 🍎 I`m a student @ Apple Developer Academy program
 - 👀 I'm interested in iOS app development and project management
 - 🤔 I'm interested in iOS app development
 - 📫 My LinkedIn profile is https://www.linkedin.com/in/pamella-alvarenga/
